@@ -1,8 +1,10 @@
 # Endo-Continuum-Robot
 Endo is an open-source continuum robot, designed to be accessible, easy to use, and customisable.
 
+![Screenshot](Docs/image.png)
+
 ## Prerequisites
-- SolidWorks 2020-21 or above
+- SolidWorks 2021-22 or above
 - Arduino IDE
 
 ## License
